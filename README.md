@@ -1,4 +1,3 @@
-# portfolio-simple-website
 
 # Portfolio Website
    This is a simple portfolio website developed using HTML and basic CSS. It includes two main sections, Home and Contact, to introduce myself and provide easy ways for viewers to reach me. The website serves as a straightforward way to showcase my skills and experience as a Frontend Developer.
